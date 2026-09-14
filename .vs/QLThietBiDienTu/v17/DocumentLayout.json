@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\qlthietbidientu\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|solutionrelative:qlthietbidientu\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\qlthietbidientu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|solutionrelative:qlthietbidientu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|c:\\users\\do gia bao\\desktop\\\u0111\u1ED3_\u00E1n_.net\\qlthietbidientu\\qlthietbidientu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|solutionrelative:qlthietbidientu\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\qlthietbidientu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|solutionrelative:qlthietbidientu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\qlthietbidientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B426451-BECF-48C9-9889-C242471DF017}|QLThietBiDienTu\\QLThietBiDienTu.csproj|solutionrelative:qlthietbidientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLThietBiDienTu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLThietBiDienTu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T02:21:25.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLThietBiDienTu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLThietBiDienTu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:09:43.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "QLThietBiDienTu\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Models\\Product.cs",
+              "RelativeToolTip": "QLThietBiDienTu\\Models\\Product.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:09:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Views\\Web.config",
+              "RelativeDocumentMoniker": "QLThietBiDienTu\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Views\\Web.config",
+              "RelativeToolTip": "QLThietBiDienTu\\Views\\Web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-24T02:05:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Web.config",
+              "RelativeDocumentMoniker": "QLThietBiDienTu\\Web.config",
+              "ToolTip": "C:\\Users\\DO GIA BAO\\Desktop\\\u0110\u1ED3_\u00E1n_.NET\\QLThietBiDienTu\\QLThietBiDienTu\\Web.config",
+              "RelativeToolTip": "QLThietBiDienTu\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-24T01:59:33.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

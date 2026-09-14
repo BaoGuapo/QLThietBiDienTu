@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QLThietBiDienTu.Models.Product>
+
+    @{
+        ViewBag.Title = "Trang Chủ - Quản Lý Thiết Bị Điện Tử";
+    }
+
+    <div class="jumbotron">
+        <h2>Trang Chủ Hệ Thống</h2>
+        <p class="lead">Số mặt hàng đang có trong giỏ (Dữ liệu từ Redis): <strong>@(ViewBag.CartCount ?? 0)</strong></p>
+    </div>
+
+    <h3>Danh Sách Sản Phẩm (Dữ liệu từ MongoDB)</h3>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Mã SP</th>
+                <th>Tên Sản Phẩm</th>
+                <th>Giá Bán</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.TenSP</td>
+                        <td>@item.GiaBan.ToString("N0") VNĐ</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center">Chưa có dữ liệu sản phẩm trong MongoDB</td>
+                </tr>
+            }
+        </tbody>
+    </table>
